@@ -1,0 +1,53 @@
+@font-face {
+    font-family: "terminal";
+    src: url('terminal.ttf') format('truetype');
+}
+
+input[type="text"] {
+    outline-style: none;
+}
+
+label{
+    font-family: terminal;
+    font-size:16px;
+    padding-left: 10px;
+}
+
+input{
+    margin-right: 120px;
+    font-family: terminal;
+    font-size: 18px;
+    color: #fff;
+    background-color: #000;
+    border: 1px solid #fff;
+    border-radius: 4px;
+    padding: 3px;
+    text-align: center;
+}
+
+.form-global{
+    margin-left: 450px;
+    margin-right: 450px;
+    margin-top: 20px;
+    margin-bottom: 20px
+}
+
+.input-name{
+    width: 150px;
+    height: 25px;
+}
+
+.input-url{
+    width: 250px;
+    height: 25px;
+}
+
+.input-button{
+    width: 100px;
+    height: 30px;
+    border-radius: 24px;
+    font-family: terminal;
+    font-size: 18px;
+    color: #fff;
+    background-color: #000;
+}

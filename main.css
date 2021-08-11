@@ -1,0 +1,25 @@
+@font-face {
+    font-family: "terminal";
+    src: url('terminal.ttf') format('truetype');
+}
+
+table{
+    background-color: #0d0d0d;
+    border-collapse: collapse;
+    border-radius: 8px;
+    overflow: hidden;
+    margin: auto;
+}
+
+td{
+    padding: 5px;
+    border-bottom: 1px solid #fff;
+    width: 300px;
+
+}
+
+.table-global{
+    font-family: terminal;
+    font-size: 18px;
+}
+

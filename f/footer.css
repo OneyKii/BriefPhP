@@ -1,0 +1,26 @@
+footer{
+    display: flex;
+    justify-content: center;
+}
+
+p{
+    display: flex;
+    justify-content: center; 
+}
+
+
+.global{
+    display: flex;
+    justify-content: center; 
+}
+
+.copyright{
+    display: flex;
+    justify-content: center;
+}
+
+.copyright-p{
+    display: flex;
+    justify-content: center;
+
+}

@@ -1,0 +1,47 @@
+INSERT INTO link_categories (id_link, id_cat)
+VALUES (7,3);
+
+INSERT INTO link_categories (id_link, id_cat)
+VALUES (8,3);
+
+INSERT INTO link_categories (id_link, id_cat)
+VALUES (9,3);
+
+INSERT INTO link_categories (id_link, id_cat)
+VALUES (10,3);
+
+INSERT INTO link_categories (id_link, id_cat)
+VALUES (11,2);
+
+INSERT INTO link_categories (id_link, id_cat)
+VALUES (12,2);
+
+INSERT INTO link_categories (id_link, id_cat)
+VALUES (13,2);
+
+INSERT INTO link_categories (id_link, id_cat)
+VALUES (14,2);
+
+INSERT INTO link_categories (id_link, id_cat)
+VALUES (15,4);
+
+INSERT INTO link_categories (id_link, id_cat)
+VALUES (16,4);
+
+INSERT INTO link_categories (id_link, id_cat)
+VALUES (17,4);
+
+INSERT INTO link_categories (id_link, id_cat)
+VALUES (18,4);
+
+INSERT INTO link_categories (id_link, id_cat)
+VALUES (19,5);
+
+INSERT INTO link_categories (id_link, id_cat)
+VALUES (20,5);
+
+INSERT INTO link_categories (id_link, id_cat)
+VALUES (21,5);
+
+INSERT INTO link_categories (id_link, id_cat)
+VALUES (22,5);

@@ -1,0 +1,24 @@
+body{
+    background-color: #000;
+}
+
+h1{
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.global{
+    display: flex;
+    justify-content: space-around;
+}
+
+.btn-home{
+    display: flex;
+    justify-content: space-around;
+    background-color: #000;
+    border: 1px solid #fff solid;
+    border-radius: 36px;
+    padding: 15px;
+    margin: 50px;
+}

@@ -1,0 +1,63 @@
+@font-face {
+    font-family: "terminal";
+    src: url('terminal.ttf') format('truetype');
+}
+
+.form-group{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-group input {
+    width: 500px;
+    height: 50px;
+    font-family: terminal;
+    color: #fff;
+    background-color: #000;
+    border: 1px solid #ffff;
+    border-radius: 8px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+input[type="text"] {
+    outline-style: none;
+}
+
+.form-button-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.input-button{
+    display: flex;
+    font-family: terminal;
+    color: #fff;
+    background-color: #000;
+    border: 1px solid #fff;
+    border-radius: 24px;
+    padding: 10px;
+    font-size:16px;
+    margin-top: 25px;
+    width: 150px;
+    transition: 0.25s;
+}
+
+.input-button:hover{
+    display: flex;
+    font-family: terminal;
+    color: #fff;
+    background-color: #000;
+    border: 1px solid #fff;
+    border-radius: 24px;
+    padding: 10px;
+    font-size:16px;
+    margin-top: 25px;
+    width: 400px;
+    cursor: pointer;
+}
